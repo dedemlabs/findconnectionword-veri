@@ -1,0 +1,103 @@
+{
+  "paketNo": 1,
+  "dil": "en",
+  "surum": 1,
+  "adet": 5,
+  "leveller": [
+    {
+      "id": 1,
+      "anaKategori": "CITY",
+      "cevap": "CITY",
+      "harfHavuzu": "TCYIRMBKE",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "LONDON",  "kategori": "CITY",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "JAPAN",   "kategori": "COUNTRY", "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "PARIS",   "kategori": "CITY",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BERLIN",  "kategori": "CITY",    "yabanci": false, "karisik": true,  "karisikHal": "NILREB" },
+        { "k": "MADRID",  "kategori": "CITY",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "GIRAFFE", "kategori": "ANIMAL",  "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ROME",    "kategori": "CITY",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "TOKYO",   "kategori": "CITY",    "yabanci": false, "karisik": true,  "karisikHal": "OKYOT" },
+        { "k": "VIENNA",  "kategori": "CITY",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "ATHENS",  "kategori": "CITY",    "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 2,
+      "anaKategori": "FRUIT",
+      "cevap": "FRUIT",
+      "harfHavuzu": "TIURFMKSAE",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "APPLE",     "kategori": "FRUIT",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BANANA",    "kategori": "FRUIT",  "yabanci": false, "karisik": true,  "karisikHal": "ANANAB" },
+        { "k": "CHERRY",    "kategori": "FRUIT",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "DOCTOR",    "kategori": "JOB",    "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ORANGE",    "kategori": "FRUIT",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "GRAPE",     "kategori": "FRUIT",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BLUE",      "kategori": "COLOR",  "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "MANGO",     "kategori": "FRUIT",  "yabanci": false, "karisik": true,  "karisikHal": "GNAMO" },
+        { "k": "LEMON",     "kategori": "FRUIT",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "PINEAPPLE", "kategori": "FRUIT",  "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 3,
+      "anaKategori": "ANIMAL",
+      "cevap": "ANIMAL",
+      "harfHavuzu": "MLINAAKREBT",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "LION",    "kategori": "ANIMAL",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "TIGER",   "kategori": "ANIMAL",  "yabanci": false, "karisik": true,  "karisikHal": "REGIT" },
+        { "k": "RABBIT",  "kategori": "ANIMAL",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "EAGLE",   "kategori": "ANIMAL",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "GUITAR",  "kategori": "MUSIC",   "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "DOLPHIN", "kategori": "ANIMAL",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "WOLF",    "kategori": "ANIMAL",  "yabanci": false, "karisik": true,  "karisikHal": "FLOW" },
+        { "k": "PENGUIN", "kategori": "ANIMAL",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BUS",     "kategori": "VEHICLE", "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ZEBRA",   "kategori": "ANIMAL",  "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 4,
+      "anaKategori": "COLOR",
+      "cevap": "COLOR",
+      "harfHavuzu": "ROCLTOMSEK",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "RED",     "kategori": "COLOR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BLUE",    "kategori": "COLOR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "GREEN",   "kategori": "COLOR",  "yabanci": false, "karisik": true,  "karisikHal": "NEERG" },
+        { "k": "TABLE",   "kategori": "OBJECT", "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "YELLOW",  "kategori": "COLOR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "PURPLE",  "kategori": "COLOR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "PINK",    "kategori": "COLOR",  "yabanci": false, "karisik": true,  "karisikHal": "KNIP" },
+        { "k": "BLACK",   "kategori": "COLOR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "TENNIS",  "kategori": "SPORT",  "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ORANGE",  "kategori": "COLOR",  "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 5,
+      "anaKategori": "JOB",
+      "cevap": "JOB",
+      "harfHavuzu": "BOJRKTMS",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "DOCTOR",   "kategori": "JOB",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "TEACHER",  "kategori": "JOB",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "LAWYER",   "kategori": "JOB",    "yabanci": false, "karisik": true,  "karisikHal": "REYWAL" },
+        { "k": "APPLE",    "kategori": "FRUIT",  "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "PILOT",    "kategori": "JOB",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "CHEF",     "kategori": "JOB",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "NURSE",    "kategori": "JOB",    "yabanci": false, "karisik": true,  "karisikHal": "ESRUN" },
+        { "k": "LONDON",   "kategori": "CITY",   "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ENGINEER", "kategori": "JOB",    "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BAKER",    "kategori": "JOB",    "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    }
+  ]
+}
