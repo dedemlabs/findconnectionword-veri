@@ -1,0 +1,103 @@
+{
+  "paketNo": 1,
+  "dil": "tr",
+  "surum": 1,
+  "adet": 5,
+  "leveller": [
+    {
+      "id": 1,
+      "anaKategori": "ŞEHİR",
+      "cevap": "ŞEHİR",
+      "harfHavuzu": "ŞRHKEİMNTAB",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "ANKARA",  "kategori": "ŞEHİR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "JAPONYA", "kategori": "ÜLKE",   "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "İZMİR",   "kategori": "ŞEHİR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BURSA",   "kategori": "ŞEHİR",  "yabanci": false, "karisik": true,  "karisikHal": "SABRU" },
+        { "k": "ADANA",   "kategori": "ŞEHİR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "ZÜRAFA",  "kategori": "HAYVAN", "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "KONYA",   "kategori": "ŞEHİR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "SAMSUN",  "kategori": "ŞEHİR",  "yabanci": false, "karisik": true,  "karisikHal": "NUSMAS" },
+        { "k": "MERSİN",  "kategori": "ŞEHİR",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "TRABZON", "kategori": "ŞEHİR",  "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 2,
+      "anaKategori": "MEYVE",
+      "cevap": "MEYVE",
+      "harfHavuzu": "VMEYELKSAİR",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "ELMA",    "kategori": "MEYVE",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "ARMUT",   "kategori": "MEYVE",  "yabanci": false, "karisik": true,  "karisikHal": "TUMRA" },
+        { "k": "KİRAZ",   "kategori": "MEYVE",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "DOKTOR",  "kategori": "MESLEK", "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ÇİLEK",   "kategori": "MEYVE",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "KARPUZ",  "kategori": "MEYVE",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "MAVİ",    "kategori": "RENK",   "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ÜZÜM",    "kategori": "MEYVE",  "yabanci": false, "karisik": true,  "karisikHal": "MÜZÜ" },
+        { "k": "İNCİR",   "kategori": "MEYVE",  "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "PORTAKAL","kategori": "MEYVE",  "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 3,
+      "anaKategori": "HAYVAN",
+      "cevap": "HAYVAN",
+      "harfHavuzu": "NAHVYKALBEC",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "ASLAN",   "kategori": "HAYVAN", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "KAPLAN",  "kategori": "HAYVAN", "yabanci": false, "karisik": true,  "karisikHal": "NALPAK" },
+        { "k": "TAVŞAN",  "kategori": "HAYVAN", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "KARTAL",  "kategori": "HAYVAN", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "GİTAR",   "kategori": "MÜZİK",  "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "YUNUS",   "kategori": "HAYVAN", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "TİLKİ",   "kategori": "HAYVAN", "yabanci": false, "karisik": true,  "karisikHal": "KİLTİ" },
+        { "k": "PENGUEN", "kategori": "HAYVAN", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "OTOBÜS",  "kategori": "ARAÇ",   "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "ZEBRA",   "kategori": "HAYVAN", "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 4,
+      "anaKategori": "RENK",
+      "cevap": "RENK",
+      "harfHavuzu": "KENRMTSAİ",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "KIRMIZI",   "kategori": "RENK",   "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "MAVİ",      "kategori": "RENK",   "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "YEŞİL",     "kategori": "RENK",   "yabanci": false, "karisik": true,  "karisikHal": "LİŞEY" },
+        { "k": "MASA",      "kategori": "EŞYA",   "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "SARI",      "kategori": "RENK",   "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "TURUNCU",   "kategori": "RENK",   "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "MOR",       "kategori": "RENK",   "yabanci": false, "karisik": true,  "karisikHal": "ROM" },
+        { "k": "PEMBE",     "kategori": "RENK",   "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "KOŞU",      "kategori": "SPOR",   "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "SİYAH",     "kategori": "RENK",   "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    },
+    {
+      "id": 5,
+      "anaKategori": "MESLEK",
+      "cevap": "MESLEK",
+      "harfHavuzu": "LMEKSEBRNAT",
+      "zorluk": 1,
+      "kelimeler": [
+        { "k": "DOKTOR",    "kategori": "MESLEK", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "ÖĞRETMEN",  "kategori": "MESLEK", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "AVUKAT",    "kategori": "MESLEK", "yabanci": false, "karisik": true,  "karisikHal": "TAKUVA" },
+        { "k": "ELMA",      "kategori": "MEYVE",  "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "PİLOT",     "kategori": "MESLEK", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "AŞÇI",      "kategori": "MESLEK", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "BERBER",    "kategori": "MESLEK", "yabanci": false, "karisik": true,  "karisikHal": "REBBER" },
+        { "k": "ANKARA",    "kategori": "ŞEHİR",  "yabanci": true,  "karisik": false, "karisikHal": null },
+        { "k": "HEMŞİRE",   "kategori": "MESLEK", "yabanci": false, "karisik": false, "karisikHal": null },
+        { "k": "MÜHENDİS",  "kategori": "MESLEK", "yabanci": false, "karisik": false, "karisikHal": null }
+      ]
+    }
+  ]
+}
