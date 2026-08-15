@@ -1,5 +1,11 @@
 {
-  "paketSayisi": 3,
+  "guncelleme": "2026-08-15",
+  "paketSayisi": 2,
   "paketBoyutu": 2,
-  "paketler": { "tr_1": 1, "tr_2": 1, "tr_3": 1, "en_1": 1, "en_2": 1, "en_3": 1 }
+  "paketler": {
+    "tr_1": 1,
+    "tr_2": 1,
+    "en_1": 1,
+    "en_2": 1
+  }
 }
