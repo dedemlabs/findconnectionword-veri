@@ -1,0 +1,33 @@
+{
+  "paket": 2,
+  "dil": "tr",
+  "surum": 1,
+  "leveller": [
+    {
+      "id": 3,
+      "cevap": "GÜNEŞ",
+      "harfHavuzu": "GÜNEŞKARLMT",
+      "kelimeler": [
+        { "k": "SICAK" },
+        { "k": "IŞIK" },
+        { "k": "SARI" },
+        { "k": "GÖKYÜZÜ" },
+        { "k": "SABAH" },
+        { "k": "GÖLGE", "karisik": true, "karisikHal": "L E G Ö G" }
+      ]
+    },
+    {
+      "id": 4,
+      "cevap": "MÜZİK",
+      "harfHavuzu": "MÜZİKANLRSE",
+      "kelimeler": [
+        { "k": "NOTA" },
+        { "k": "GİTAR" },
+        { "k": "RİTİM" },
+        { "k": "ŞARKI" },
+        { "k": "KULAK" },
+        { "k": "SAHNE", "karisik": true, "karisikHal": "H A S N E" }
+      ]
+    }
+  ]
+}
