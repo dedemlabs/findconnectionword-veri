@@ -1,0 +1,33 @@
+{
+  "paket": 2,
+  "dil": "en",
+  "surum": 1,
+  "leveller": [
+    {
+      "id": 3,
+      "cevap": "SUN",
+      "harfHavuzu": "SUNRELAMTK",
+      "kelimeler": [
+        { "k": "HOT" },
+        { "k": "LIGHT" },
+        { "k": "YELLOW" },
+        { "k": "SKY" },
+        { "k": "MORNING" },
+        { "k": "SHADOW", "karisik": true, "karisikHal": "W O D A H S" }
+      ]
+    },
+    {
+      "id": 4,
+      "cevap": "MUSIC",
+      "harfHavuzu": "MUSICRENAL",
+      "kelimeler": [
+        { "k": "NOTE" },
+        { "k": "GUITAR" },
+        { "k": "RHYTHM" },
+        { "k": "SONG" },
+        { "k": "EAR" },
+        { "k": "STAGE", "karisik": true, "karisikHal": "E G A T S" }
+      ]
+    }
+  ]
+}
