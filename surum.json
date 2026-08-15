@@ -1,10 +1,5 @@
 {
-  "guncellemeTarihi": "2026-08-11",
-  "paketBoyutu": 250,
-  "toplamLevel": 250,
-  "diller": ["tr", "en"],
-  "paketler": {
-    "tr_1": 1,
-    "en_1": 1
-  }
+  "paketSayisi": 3,
+  "paketBoyutu": 2,
+  "paketler": { "tr_1": 1, "tr_2": 1, "tr_3": 1, "en_1": 1, "en_2": 1, "en_3": 1 }
 }
