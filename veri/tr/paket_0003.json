@@ -1,0 +1,41 @@
+{
+  "paket": 2,
+  "dil": "tr",
+  "surum": 1,
+  "leveller": [
+    {
+      "id": 3,
+      "cevap": "XGÜNEŞ",
+      "harfHavuzu": "XGÜNEŞKARLMT",
+      "kelimeler": [
+        { "k": "SICAK" },
+        { "k": "IŞIK" },
+        { "k": "SARI" },
+        { "k": "GÖKYÜZÜ" },
+        { "k": "SABAH" },
+        { "k": "YAZ" },
+        { "k": "ENERJİ" },
+        { "k": "BULUT" },
+        { "k": "GÖLGE", "karisik": true, "karisikHal": "L E G Ö G" },
+        { "k": "YANGIN", "karisik": true, "karisikHal": "N I Y G A N" }
+      ]
+    },
+    {
+      "id": 4,
+      "cevap": "XMÜZİK",
+      "harfHavuzu": "XMÜZİKANLRSE",
+      "kelimeler": [
+        { "k": "NOTA" },
+        { "k": "GİTAR" },
+        { "k": "RİTİM" },
+        { "k": "ŞARKI" },
+        { "k": "KULAK" },
+        { "k": "SES" },
+        { "k": "MELODİ" },
+        { "k": "KONSER" },
+        { "k": "SAHNE", "karisik": true, "karisikHal": "H A S N E" },
+        { "k": "PİYANO", "karisik": true, "karisikHal": "A N O P İ Y" }
+      ]
+    }
+  ]
+}
