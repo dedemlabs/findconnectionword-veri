@@ -9,11 +9,15 @@
       "harfHavuzu": "KİTAPMRSLEO",
       "kelimeler": [
         { "k": "SAYFA" },
-        { "k": "KÜTÜPHANE" },
         { "k": "RAF" },
         { "k": "YAZAR" },
         { "k": "KAPAK" },
-        { "k": "OKUMAK", "karisik": true, "karisikHal": "K A M O K U" }
+        { "k": "OKUMAK", "karisik": true, "karisikHal": "K A M O K U" },
+        { "k": "ROMAN", "karisik": true, "karisikHal": "M O R A N" },
+        { "k": "HECE" },
+        { "k": "CÜMLE" },
+        { "k": "BİLGİSAYAR" },
+        { "k": "FUTBOL" }
       ]
     },
     {
@@ -25,8 +29,12 @@
         { "k": "TUZ" },
         { "k": "MAVİ" },
         { "k": "GEMİ" },
-        { "k": "KUM" },
-        { "k": "BALIK", "karisik": true, "karisikHal": "L I K B A" }
+        { "k": "BALIK", "karisik": true, "karisikHal": "L I K B A" },
+        { "k": "KUM", "karisik": true, "karisikHal": "M U K" },
+        { "k": "MARTI" },
+        { "k": "SAHİL" },
+        { "k": "OTOMOBİL" },
+        { "k": "GEZEGEN" }
       ]
     }
   ]
