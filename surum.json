@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-08-15",
+  "guncelleme": "2026-08-17",
   "toplamLevel": 6,
   "paketBoyutu": 2,
   "paketler": {
@@ -7,6 +7,7 @@
     "tr_2": 2,
     "tr_3": 1,
     "en_1": 1,
-    "en_2": 1
+    "en_2": 1,
+    "en_3": 1
   }
 }
