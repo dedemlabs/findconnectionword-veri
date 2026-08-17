@@ -13,7 +13,11 @@
         { "k": "SARI" },
         { "k": "GÖKYÜZÜ" },
         { "k": "SABAH" },
-        { "k": "GÖLGE", "karisik": true, "karisikHal": "L E G Ö G" }
+        { "k": "YAZ" },
+        { "k": "ENERJİ" },
+        { "k": "BULUT" },
+        { "k": "GÖLGE", "karisik": true, "karisikHal": "L E G Ö G" },
+        { "k": "YANGIN", "karisik": true, "karisikHal": "N I Y G A N" }
       ]
     },
     {
@@ -26,7 +30,11 @@
         { "k": "RİTİM" },
         { "k": "ŞARKI" },
         { "k": "KULAK" },
-        { "k": "SAHNE", "karisik": true, "karisikHal": "H A S N E" }
+        { "k": "SES" },
+        { "k": "MELODİ" },
+        { "k": "KONSER" },
+        { "k": "SAHNE", "karisik": true, "karisikHal": "H A S N E" },
+        { "k": "PİYANO", "karisik": true, "karisikHal": "A N O P İ Y" }
       ]
     }
   ]
