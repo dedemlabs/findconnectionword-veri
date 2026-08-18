@@ -1,0 +1,432 @@
+{
+  "paket": 41,
+  "dil": "tr",
+  "surum": 1,
+  "leveller": [
+    {
+      "id": 1001,
+      "cevap": "OKÇULUK",
+      "harfHavuzu": "METRSKOKÇLK",
+      "kelimeler": [
+        { "k": "KİRİŞ" },
+        { "k": "RİTİM" },
+        { "k": "SADAK" },
+        { "k": "HEDEF" },
+        { "k": "NİŞAN", "karisik": true, "karisikHal": "Ş N N İ A" },
+        { "k": "YAY" },
+        { "k": "MÜREKKEP" },
+        { "k": "GÖZLEME" },
+        { "k": "TEMREN", "karisik": true, "karisikHal": "M R N T E E" },
+        { "k": "MENZİL" }
+      ]
+    },
+    {
+      "id": 1002,
+      "cevap": "KUYUMCULUK",
+      "harfHavuzu": "TERMSIKKYMCLK",
+      "kelimeler": [
+        { "k": "AYAR" },
+        { "k": "TELESKOP" },
+        { "k": "ŞALÜMO" },
+        { "k": "KÜLÇE" },
+        { "k": "YALAK", "karisik": true, "karisikHal": "L K Y A A" },
+        { "k": "MİHVER" },
+        { "k": "ŞNORKEL" },
+        { "k": "PARLATMA" },
+        { "k": "POTA", "karisik": true, "karisikHal": "T P O A" },
+        { "k": "GRAM" }
+      ]
+    },
+    {
+      "id": 1003,
+      "cevap": "DOKTORLUK",
+      "harfHavuzu": "STEMRKADKTRLK",
+      "kelimeler": [
+        { "k": "STETOSKOP" },
+        { "k": "KÜMES" },
+        { "k": "TEŞHİS" },
+        { "k": "NEŞTER" },
+        { "k": "VİZİTE", "karisik": true, "karisikHal": "Z T V İ İ E" },
+        { "k": "NABIZ" },
+        { "k": "VİNÇ" },
+        { "k": "ÖNLÜK" },
+        { "k": "REFLEKS", "karisik": true, "karisikHal": "F L K S R E E" },
+        { "k": "KLİNİK" }
+      ]
+    },
+    {
+      "id": 1004,
+      "cevap": "BAHÇIVANLIK",
+      "harfHavuzu": "METSKRABHÇVNL",
+      "kelimeler": [
+        { "k": "BUDAMA" },
+        { "k": "MOTOR" },
+        { "k": "AŞILAMA" },
+        { "k": "ÇAPA" },
+        { "k": "GÜBRELEME", "karisik": true, "karisikHal": "B R L M G Ü E E E" },
+        { "k": "PEYZAJ" },
+        { "k": "DÜMEN" },
+        { "k": "ÇİMLENDİRME" },
+        { "k": "ÇELİKLEME", "karisik": true, "karisikHal": "L K L M Ç E İ E E" },
+        { "k": "SERA" }
+      ]
+    },
+    {
+      "id": 1005,
+      "cevap": "GASTRONOMİ",
+      "harfHavuzu": "STEMRKGSTRNM",
+      "kelimeler": [
+        { "k": "SUNUM" },
+        { "k": "DEVRE" },
+        { "k": "DEGÜSTASYON" },
+        { "k": "SOS" },
+        { "k": "LEZZET", "karisik": true, "karisikHal": "Z T L E Z E" },
+        { "k": "ŞEF" },
+        { "k": "KÜLAH" },
+        { "k": "MENÜ" },
+        { "k": "GARNİTÜR", "karisik": true, "karisikHal": "R N T R G A İ Ü" },
+        { "k": "TAT" }
+      ]
+    },
+    {
+      "id": 1006,
+      "cevap": "MÜHENDİSLİK",
+      "harfHavuzu": "TRMAKSMHNDSLK",
+      "kelimeler": [
+        { "k": "STATİK" },
+        { "k": "DÜRBÜN" },
+        { "k": "ÇİZİM" },
+        { "k": "MUKAVEMET" },
+        { "k": "ANALİZ", "karisik": true, "karisikHal": "N L Z A A İ" },
+        { "k": "HESAP" },
+        { "k": "PEDAL" },
+        { "k": "ŞANTİYE" },
+        { "k": "FORMÜL", "karisik": true, "karisikHal": "R M L F O Ü" },
+        { "k": "PROJE" }
+      ]
+    },
+    {
+      "id": 1007,
+      "cevap": "BALONCULUK",
+      "harfHavuzu": "METRSİABLNCLK",
+      "kelimeler": [
+        { "k": "SEPET" },
+        { "k": "REÇETE" },
+        { "k": "BRÜLÖR" },
+        { "k": "KUBBE" },
+        { "k": "RÜZGAR", "karisik": true, "karisikHal": "Z G R R Ü A" },
+        { "k": "İRTİFA" },
+        { "k": "MERMER" },
+        { "k": "HALAT" },
+        { "k": "İNİŞ", "karisik": true, "karisikHal": "N Ş İ İ" },
+        { "k": "VADİ" }
+      ]
+    },
+    {
+      "id": 1008,
+      "cevap": "HALTER",
+      "harfHavuzu": "RTOKSEHLTR",
+      "kelimeler": [
+        { "k": "BAR" },
+        { "k": "NEY" },
+        { "k": "KOPARMA" },
+        { "k": "PLAKA" },
+        { "k": "SİKLET", "karisik": true, "karisikHal": "K L T S İ E" },
+        { "k": "PODYUM" },
+        { "k": "HERBARYUM" },
+        { "k": "MAGNEZYUM" },
+        { "k": "SİLKME", "karisik": true, "karisikHal": "L K M S İ E" },
+        { "k": "AĞIRLIK" }
+      ]
+    },
+    {
+      "id": 1009,
+      "cevap": "YAYINCILIK",
+      "harfHavuzu": "RTMKSEYENCLK",
+      "kelimeler": [
+        { "k": "EDİTÖR" },
+        { "k": "KOKPİT" },
+        { "k": "MİZANPAJ" },
+        { "k": "KAPAK" },
+        { "k": "ISBN", "karisik": true, "karisikHal": "S B N I" },
+        { "k": "BANDROL" },
+        { "k": "VERİCİ" },
+        { "k": "TELİF" },
+        { "k": "DAĞITIM", "karisik": true, "karisikHal": "Ğ T M D A I I" },
+        { "k": "KİTAP" }
+      ]
+    },
+    {
+      "id": 1010,
+      "cevap": "KAYAK",
+      "harfHavuzu": "SEMTOAKYK",
+      "kelimeler": [
+        { "k": "BATON" },
+        { "k": "LOKOMOTİF" },
+        { "k": "TELEFERİK" },
+        { "k": "PİST" },
+        { "k": "SLALOM", "karisik": true, "karisikHal": "L L M S A O" },
+        { "k": "LİFT" },
+        { "k": "KAKAO" },
+        { "k": "KAR GÖZLÜĞÜ" },
+        { "k": "BAĞLAMA", "karisik": true, "karisikHal": "Ğ L M B A A A" },
+        { "k": "TUTUŞ" }
+      ]
+    },
+    {
+      "id": 1011,
+      "cevap": "YÜZME",
+      "harfHavuzu": "TRMEASKYZM",
+      "kelimeler": [
+        { "k": "KULAÇ" },
+        { "k": "ÇİZİM" },
+        { "k": "DEPAR" },
+        { "k": "KELEBEK" },
+        { "k": "KURBAĞALAMA", "karisik": true, "karisikHal": "R B Ğ L M K U A A A A" },
+        { "k": "DÖNÜŞ" },
+        { "k": "PROPOLİS" },
+        { "k": "SERBEST" },
+        { "k": "SU", "karisik": true, "karisikHal": "U S" },
+        { "k": "KULVAR" }
+      ]
+    },
+    {
+      "id": 1012,
+      "cevap": "SATRANÇ",
+      "harfHavuzu": "METSKROSTRNÇ",
+      "kelimeler": [
+        { "k": "VEZİR" },
+        { "k": "SONDA" },
+        { "k": "MAT" },
+        { "k": "ROK" },
+        { "k": "KALE", "karisik": true, "karisikHal": "L K A E" },
+        { "k": "ŞAH" },
+        { "k": "KİRİŞ" },
+        { "k": "PİYON" },
+        { "k": "HAMLE", "karisik": true, "karisikHal": "M L H A E" },
+        { "k": "AT" }
+      ]
+    },
+    {
+      "id": 1013,
+      "cevap": "ARKEOMETRİ",
+      "harfHavuzu": "SRTEKOARKMTR",
+      "kelimeler": [
+        { "k": "KARBON TESTİ" },
+        { "k": "AYAR" },
+        { "k": "TARİHLEME" },
+        { "k": "KATMAN" },
+        { "k": "İZOTOP", "karisik": true, "karisikHal": "Z T P İ O O" },
+        { "k": "SEDİMENT" },
+        { "k": "STETOSKOP" },
+        { "k": "ANALİZ" },
+        { "k": "KİMYA", "karisik": true, "karisikHal": "M Y K İ A" },
+        { "k": "TARAMA" }
+      ]
+    },
+    {
+      "id": 1014,
+      "cevap": "ARŞİVCİLİK",
+      "harfHavuzu": "ETROMSARŞVCLK",
+      "kelimeler": [
+        { "k": "BELGE" },
+        { "k": "BUDAMA" },
+        { "k": "TASNİF" },
+        { "k": "ENVANTER" },
+        { "k": "KORUMA", "karisik": true, "karisikHal": "R M K O U A" },
+        { "k": "FON" },
+        { "k": "SUNUM" },
+        { "k": "DİJİTALLEŞME" },
+        { "k": "KAYIT", "karisik": true, "karisikHal": "Y T K A I" },
+        { "k": "DOSYA" }
+      ]
+    },
+    {
+      "id": 1015,
+      "cevap": "MÜZECİLİK",
+      "harfHavuzu": "METRSİAMZCLK",
+      "kelimeler": [
+        { "k": "VİTRİN" },
+        { "k": "STATİK" },
+        { "k": "KOLEKSİYON" },
+        { "k": "KÜRATÖR" },
+        { "k": "RESTORASYON", "karisik": true, "karisikHal": "S T R S Y N R E O A O" },
+        { "k": "SERGİLEME" },
+        { "k": "SEPET" },
+        { "k": "KORUMA" },
+        { "k": "ESER", "karisik": true, "karisikHal": "S R E E" },
+        { "k": "ENVANTER" }
+      ]
+    },
+    {
+      "id": 1016,
+      "cevap": "BOKS",
+      "harfHavuzu": "RETMISBOKS",
+      "kelimeler": [
+        { "k": "ELDİVEN" },
+        { "k": "BAR" },
+        { "k": "RİNG" },
+        { "k": "KROŞE" },
+        { "k": "APARKAT", "karisik": true, "karisikHal": "P R K T A A A" },
+        { "k": "NAKAVT" },
+        { "k": "EDİTÖR" },
+        { "k": "DİREKT" },
+        { "k": "RAUNT", "karisik": true, "karisikHal": "N T R A U" },
+        { "k": "KÖŞE" }
+      ]
+    },
+    {
+      "id": 1017,
+      "cevap": "DERİCİLİK",
+      "harfHavuzu": "SEMTOAKDRCLK",
+      "kelimeler": [
+        { "k": "TABAKLAMA" },
+        { "k": "BATON" },
+        { "k": "KÖSELE" },
+        { "k": "SÜET" },
+        { "k": "RUGAN", "karisik": true, "karisikHal": "G N R U A" },
+        { "k": "VİDALA" },
+        { "k": "KULAÇ" },
+        { "k": "TABAKHANE" },
+        { "k": "İŞLEME", "karisik": true, "karisikHal": "Ş L M İ E E" },
+        { "k": "HAM" }
+      ]
+    },
+    {
+      "id": 1018,
+      "cevap": "DAMLATMA SULAMA",
+      "harfHavuzu": "TRMEKOSDMLTMS",
+      "kelimeler": [
+        { "k": "DAMLATICI" },
+        { "k": "VEZİR" },
+        { "k": "FİLTRE" },
+        { "k": "BORU" },
+        { "k": "VANASI", "karisik": true, "karisikHal": "N S V A A I" },
+        { "k": "BASINÇ" },
+        { "k": "KARBON TESTİ" },
+        { "k": "TASARRUF" },
+        { "k": "DEBİ", "karisik": true, "karisikHal": "B D E İ" },
+        { "k": "KÖK" }
+      ]
+    },
+    {
+      "id": 1019,
+      "cevap": "JEOLOJİ",
+      "harfHavuzu": "RTSOEAKJLJ",
+      "kelimeler": [
+        { "k": "KAYAÇ" },
+        { "k": "BELGE" },
+        { "k": "FAY HATTI" },
+        { "k": "MAGMA" },
+        { "k": "TABAKA", "karisik": true, "karisikHal": "B K T A A A" },
+        { "k": "MİNERAL" },
+        { "k": "VİTRİN" },
+        { "k": "SEDİMENT" },
+        { "k": "DEPREM", "karisik": true, "karisikHal": "P R M D E E" },
+        { "k": "YER KABUĞU" }
+      ]
+    },
+    {
+      "id": 1020,
+      "cevap": "ASTRONOMİ",
+      "harfHavuzu": "METSOKASTRNM",
+      "kelimeler": [
+        { "k": "BULUTSU" },
+        { "k": "ELDİVEN" },
+        { "k": "SÜPERNOVA" },
+        { "k": "IŞIK YILI" },
+        { "k": "KARA DELİK", "karisik": true, "karisikHal": "R D L K K A A E İ" },
+        { "k": "TAYF" },
+        { "k": "TABAKLAMA" },
+        { "k": "KADİR" },
+        { "k": "YILDIZ KÜMESİ", "karisik": true, "karisikHal": "L D Z K M S Y I I Ü E İ" },
+        { "k": "GÖZLEM" }
+      ]
+    },
+    {
+      "id": 1021,
+      "cevap": "BİYOLOJİ",
+      "harfHavuzu": "RTMSEAMBYLJ",
+      "kelimeler": [
+        { "k": "HÜCRE" },
+        { "k": "DAMLATICI" },
+        { "k": "ORGANEL" },
+        { "k": "MİTOZ" },
+        { "k": "DNA", "karisik": true, "karisikHal": "N D A" },
+        { "k": "MAYOTİK" },
+        { "k": "KAYAÇ" },
+        { "k": "ENZİM" },
+        { "k": "GENETİK", "karisik": true, "karisikHal": "N T K G E İ İ" },
+        { "k": "DOKU" }
+      ]
+    },
+    {
+      "id": 1022,
+      "cevap": "KALİGRAFİ",
+      "harfHavuzu": "TRSKOAMKLGRF",
+      "kelimeler": [
+        { "k": "HOKKA" },
+        { "k": "BULUTSU" },
+        { "k": "KAMIŞ" },
+        { "k": "DİVİT" },
+        { "k": "İSLİ MÜREKKEP", "karisik": true, "karisikHal": "S L M R K K P İ İ Ü E E" },
+        { "k": "KUŞE" },
+        { "k": "HÜCRE" },
+        { "k": "HAT" },
+        { "k": "ESTETİK", "karisik": true, "karisikHal": "S T K E E T İ" },
+        { "k": "HARF" }
+      ]
+    },
+    {
+      "id": 1023,
+      "cevap": "HİDROLOJİ",
+      "harfHavuzu": "METSKOLHDRLJ",
+      "kelimeler": [
+        { "k": "YERALTI SUYU" },
+        { "k": "SADAK" },
+        { "k": "HAVZA" },
+        { "k": "AKİFER" },
+        { "k": "AKIŞ", "karisik": true, "karisikHal": "K Ş A I" },
+        { "k": "BUHARLAŞMA" },
+        { "k": "ŞALÜMO" },
+        { "k": "KAYNAK" },
+        { "k": "SIZINTI", "karisik": true, "karisikHal": "Z N T S I I I" },
+        { "k": "SU DÖNGÜSÜ" }
+      ]
+    },
+    {
+      "id": 1024,
+      "cevap": "VETERİNERLİK",
+      "harfHavuzu": "EMTSOKRVTELK",
+      "kelimeler": [
+        { "k": "AŞI" },
+        { "k": "TEŞHİS" },
+        { "k": "PARAZİT" },
+        { "k": "ÇİP" },
+        { "k": "KISIRLAŞTIRMA", "karisik": true, "karisikHal": "S R L Ş T R M K I I A I A" },
+        { "k": "TASMA" },
+        { "k": "AŞILAMA" },
+        { "k": "RÖNTGEN" },
+        { "k": "TEDAVİ", "karisik": true, "karisikHal": "D V T E A İ" },
+        { "k": "KAFES" }
+      ]
+    },
+    {
+      "id": 1025,
+      "cevap": "METEOROLOJİK TAHMİN",
+      "harfHavuzu": "METSRKMTRTHM",
+      "kelimeler": [
+        { "k": "RADAR" },
+        { "k": "DEGÜSTASYON" },
+        { "k": "SİKLON" },
+        { "k": "İZOBAAR" },
+        { "k": "CEPHE", "karisik": true, "karisikHal": "P H C E E" },
+        { "k": "UYDU GÖRÜNTÜSÜ" },
+        { "k": "MUKAVEMET" },
+        { "k": "HİGROMETRE" },
+        { "k": "ANEMOMETRE", "karisik": true, "karisikHal": "N M M T R A E O E E" },
+        { "k": "HAVA" }
+      ]
+    }
+  ]
+}
