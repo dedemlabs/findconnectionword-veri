@@ -1,0 +1,432 @@
+{
+  "paket": 19,
+  "dil": "tr",
+  "surum": 1,
+  "leveller": [
+    {
+      "id": 451,
+      "cevap": "MEYVE",
+      "harfHavuzu": "TRMEKYAVSE",
+      "kelimeler": [
+        { "k": "ELMA" },
+        { "k": "MATKAP" },
+        { "k": "ARMUT" },
+        { "k": "MUZ" },
+        { "k": "PORTAKAL", "karisik": true, "karisikHal": "R P T A K A L O" },
+        { "k": "ÜZÜM" },
+        { "k": "DÜDÜK" },
+        { "k": "ÇİLEK" },
+        { "k": "KAVUN", "karisik": true, "karisikHal": "V A K U N" },
+        { "k": "KİRAZ" }
+      ]
+    },
+    {
+      "id": 452,
+      "cevap": "MUTFAK",
+      "harfHavuzu": "RMTEOAKSFUL",
+      "kelimeler": [
+        { "k": "TENCERE" },
+        { "k": "PENSE" },
+        { "k": "BIÇAK" },
+        { "k": "TAVA" },
+        { "k": "TEZGAH", "karisik": true, "karisikHal": "G Z T A E H" },
+        { "k": "TABAK" },
+        { "k": "KİREMİT" },
+        { "k": "KAŞIK", "karisik": true, "karisikHal": "Ş A K K I" },
+        { "k": "FIRIN" },
+        { "k": "OCAK" }
+      ]
+    },
+    {
+      "id": 453,
+      "cevap": "İLETİŞİM",
+      "harfHavuzu": "RAOUİLEKTİŞİM",
+      "kelimeler": [
+        { "k": "MESAJ" },
+        { "k": "SÜPÜRGE" },
+        { "k": "TELEFON" },
+        { "k": "RADYO" },
+        { "k": "KONUŞMAK", "karisik": true, "karisikHal": "N U K Ş O M A K" },
+        { "k": "MEKTUP" },
+        { "k": "LASTİK" },
+        { "k": "HABER" },
+        { "k": "SOHBET", "karisik": true, "karisikHal": "B O T E H S" },
+        { "k": "SİNYAL" }
+      ]
+    },
+    {
+      "id": 454,
+      "cevap": "SABIR",
+      "harfHavuzu": "TELBSAKIRM",
+      "kelimeler": [
+        { "k": "BEKLEMEK" },
+        { "k": "CEZVE" },
+        { "k": "TAHAMMÜL" },
+        { "k": "METANET" },
+        { "k": "DİRENÇ", "karisik": true, "karisikHal": "R N D İ E Ç" },
+        { "k": "SÜKUNET" },
+        { "k": "KLAVYE" },
+        { "k": "ZAMAN" },
+        { "k": "VAKİT", "karisik": true, "karisikHal": "K A T İ V" },
+        { "k": "SEBAT" }
+      ]
+    },
+    {
+      "id": 455,
+      "cevap": "BOŞLUK",
+      "harfHavuzu": "RMTSBEOŞLUK",
+      "kelimeler": [
+        { "k": "VAKUM" },
+        { "k": "TRAKTÖR" },
+        { "k": "ÇUKUR" },
+        { "k": "DERİNLİK" },
+        { "k": "YOKLUK", "karisik": true, "karisikHal": "K L Y K U O" },
+        { "k": "MESAFE" },
+        { "k": "PİYANO" },
+        { "k": "SESSİZLİK" },
+        { "k": "ARALIK", "karisik": true, "karisikHal": "R L K A I A" },
+        { "k": "UÇURUM" }
+      ]
+    },
+    {
+      "id": 456,
+      "cevap": "ÇİÇEK",
+      "harfHavuzu": "TRMASEKÇİÇ",
+      "kelimeler": [
+        { "k": "GÜL" },
+        { "k": "ZIMBA" },
+        { "k": "PAPATYA" },
+        { "k": "LALE" },
+        { "k": "KARANFİL", "karisik": true, "karisikHal": "R N K F A L A İ" },
+        { "k": "MENEKŞE" },
+        { "k": "PİYANO" },
+        { "k": "SAKSI" },
+        { "k": "YAPRAK", "karisik": true, "karisikHal": "P K A R A Y" },
+        { "k": "KOKU" }
+      ]
+    },
+    {
+      "id": 457,
+      "cevap": "KIŞ",
+      "harfHavuzu": "EARTMKŞI",
+      "kelimeler": [
+        { "k": "KAR" },
+        { "k": "TORNAVİDA" },
+        { "k": "SOĞUK" },
+        { "k": "ATKI" },
+        { "k": "ELDİVEN", "karisik": true, "karisikHal": "L D İ E N E V" },
+        { "k": "DON" },
+        { "k": "CEZVE" },
+        { "k": "BERE" },
+        { "k": "AYAZ", "karisik": true, "karisikHal": "Y A Z A" },
+        { "k": "BUZ" }
+      ]
+    },
+    {
+      "id": 458,
+      "cevap": "ULAŞIM",
+      "harfHavuzu": "ERKTULAŞIOM",
+      "kelimeler": [
+        { "k": "OTOBÜS" },
+        { "k": "SÜPÜRGE" },
+        { "k": "TREN" },
+        { "k": "BİLET" },
+        { "k": "GÜZERGAH", "karisik": true, "karisikHal": "Z G Ü E R G A H" },
+        { "k": "YOLCULUK" },
+        { "k": "MATKAP" },
+        { "k": "İSTASYON" },
+        { "k": "SEFER", "karisik": true, "karisikHal": "F E R S E" },
+        { "k": "DURAK" }
+      ]
+    },
+    {
+      "id": 459,
+      "cevap": "DENGE",
+      "harfHavuzu": "RTSKMADEGYE",
+      "kelimeler": [
+        { "k": "TERAZİ" },
+        { "k": "PİYANO" },
+        { "k": "İSTİKRAR" },
+        { "k": "UYUM" },
+        { "k": "ADALET", "karisik": true, "karisikHal": "D A A L T E" },
+        { "k": "HİZALAMA" },
+        { "k": "TRAKTÖR" },
+        { "k": "SALINCAK" },
+        { "k": "AĞIRLIK", "karisik": true, "karisikHal": "Ğ R I K L A I" },
+        { "k": "SÜKUNET" }
+      ]
+    },
+    {
+      "id": 460,
+      "cevap": "EŞİK",
+      "harfHavuzu": "TRMAOEŞİK",
+      "kelimeler": [
+        { "k": "KAPI" },
+        { "k": "KAZMA" },
+        { "k": "SINIR" },
+        { "k": "GEÇİŞ" },
+        { "k": "BAŞLANGIÇ", "karisik": true, "karisikHal": "Ş N A B L G I C A" },
+        { "k": "ADIM" },
+        { "k": "SÖRF" },
+        { "k": "DÖNÜM" },
+        { "k": "DÜZEY", "karisik": true, "karisikHal": "Z E D Ü Y" },
+        { "k": "MERHALE" }
+      ]
+    },
+    {
+      "id": 461,
+      "cevap": "TAŞIT",
+      "harfHavuzu": "ERMSOATŞIT",
+      "kelimeler": [
+        { "k": "ARABA" },
+        { "k": "KAZMA" },
+        { "k": "KAMYON" },
+        { "k": "BİSİKLET" },
+        { "k": "GEMİ", "karisik": true, "karisikHal": "M G İ E" },
+        { "k": "MOTOSİKLET" },
+        { "k": "SÜPÜRGE" },
+        { "k": "TREN" },
+        { "k": "UÇAK", "karisik": true, "karisikHal": "K Ç U A" },
+        { "k": "VAPUR" }
+      ]
+    },
+    {
+      "id": 462,
+      "cevap": "BAHÇE",
+      "harfHavuzu": "RTSIKBHÇAE",
+      "kelimeler": [
+        { "k": "ÇİM" },
+        { "k": "TRAKTÖR" },
+        { "k": "ÇİT" },
+        { "k": "TOPRAK" },
+        { "k": "SULAMAK", "karisik": true, "karisikHal": "L M K S A U A" },
+        { "k": "KULÜBE" },
+        { "k": "PERGEL" },
+        { "k": "ÇİÇEK" },
+        { "k": "FİDAN", "karisik": true, "karisikHal": "D N F A İ" },
+        { "k": "KÜREK" }
+      ]
+    },
+    {
+      "id": 463,
+      "cevap": "SANAT",
+      "harfHavuzu": "MRKİOSNATA",
+      "kelimeler": [
+        { "k": "RESİM" },
+        { "k": "PERGEL" },
+        { "k": "HEYKEL" },
+        { "k": "TİYATRO" },
+        { "k": "ESER", "karisik": true, "karisikHal": "S R E E" },
+        { "k": "İLHAM" },
+        { "k": "SEHPA" },
+        { "k": "MÜZE" },
+        { "k": "YARATICILIK", "karisik": true, "karisikHal": "R T I C L I K Y A A I" },
+        { "k": "SERGİ" }
+      ]
+    },
+    {
+      "id": 464,
+      "cevap": "GÜVEN",
+      "harfHavuzu": "RMTAGKVNÜE",
+      "kelimeler": [
+        { "k": "SADAKAT" },
+        { "k": "RADYATÖR" },
+        { "k": "İTİMAT" },
+        { "k": "ŞÜPHE" },
+        { "k": "HUZUR", "karisik": true, "karisikHal": "Z H R U U" },
+        { "k": "İNANÇ" },
+        { "k": "ÇEKİÇ" },
+        { "k": "DOSTLUK" },
+        { "k": "SAĞLAMLIK", "karisik": true, "karisikHal": "Ğ L M K L A I S A" },
+        { "k": "KORUMA" }
+      ]
+    },
+    {
+      "id": 465,
+      "cevap": "İZ",
+      "harfHavuzu": "TREAKİZ",
+      "kelimeler": [
+        { "k": "AYAK" },
+        { "k": "KLAVYE" },
+        { "k": "DAMGA" },
+        { "k": "GÖLGE" },
+        { "k": "KALINTI", "karisik": true, "karisikHal": "L N T I K A I" },
+        { "k": "İŞARET" },
+        { "k": "CEZVE" },
+        { "k": "PARMAK" },
+        { "k": "HATIRA", "karisik": true, "karisikHal": "T R A I H A" },
+        { "k": "DELİL" }
+      ]
+    },
+    {
+      "id": 466,
+      "cevap": "EV",
+      "harfHavuzu": "MTSKAEV",
+      "kelimeler": [
+        { "k": "ODA" },
+        { "k": "ÇEKİÇ" },
+        { "k": "ÇATI" },
+        { "k": "BALKON" },
+        { "k": "MUTFAK", "karisik": true, "karisikHal": "T F K U A M" },
+        { "k": "KAPI" },
+        { "k": "PİYANO" },
+        { "k": "SALON" },
+        { "k": "PENCERE", "karisik": true, "karisikHal": "N R C P E E E" },
+        { "k": "BANYO" }
+      ]
+    },
+    {
+      "id": 467,
+      "cevap": "SPOR",
+      "harfHavuzu": "EAMTKPSRO",
+      "kelimeler": [
+        { "k": "FUTBOL" },
+        { "k": "KİTAP" },
+        { "k": "BASKETBOL" },
+        { "k": "KOŞU" },
+        { "k": "SAHA", "karisik": true, "karisikHal": "H A A S" },
+        { "k": "YÜZME" },
+        { "k": "RADYO" },
+        { "k": "ANTRENMAN" },
+        { "k": "MAÇ", "karisik": true, "karisikHal": "Ç A M" },
+        { "k": "HAKEM" }
+      ]
+    },
+    {
+      "id": 468,
+      "cevap": "EĞİTİM",
+      "harfHavuzu": "SRLAKTEĞİİM",
+      "kelimeler": [
+        { "k": "DERS" },
+        { "k": "ŞEMSİYE" },
+        { "k": "ÖĞRETMEN" },
+        { "k": "KURS" },
+        { "k": "DİPLOMA", "karisik": true, "karisikHal": "P L M D A İ O" },
+        { "k": "AKADEMİ" },
+        { "k": "DOLAP" },
+        { "k": "SINAV" },
+        { "k": "BİLGİ", "karisik": true, "karisikHal": "L G B İ İ" },
+        { "k": "OKUL" }
+      ]
+    },
+    {
+      "id": 469,
+      "cevap": "CESARET",
+      "harfHavuzu": "MOKİUTCESARE",
+      "kelimeler": [
+        { "k": "KORKU" },
+        { "k": "CEZVE" },
+        { "k": "YİĞİTLİK" },
+        { "k": "MEYDAN" },
+        { "k": "ADIM", "karisik": true, "karisikHal": "D M I A" },
+        { "k": "KAHRAMAN" },
+        { "k": "LASTİK" },
+        { "k": "ATILIM" },
+        { "k": "YÜREK", "karisik": true, "karisikHal": "R K Y E Ü" },
+        { "k": "CÜRET" }
+      ]
+    },
+    {
+      "id": 470,
+      "cevap": "BAĞ",
+      "harfHavuzu": "ETRMKĞBA",
+      "kelimeler": [
+        { "k": "DÜĞÜM" },
+        { "k": "PENSE" },
+        { "k": "İLİŞKİ" },
+        { "k": "HALAT" },
+        { "k": "KÖPRÜ", "karisik": true, "karisikHal": "P R K Ö Ü" },
+        { "k": "VEFA" },
+        { "k": "ÇATAL" },
+        { "k": "TEMAS" },
+        { "k": "ZİNCİR", "karisik": true, "karisikHal": "N C R Z İ İ" },
+        { "k": "SADAKAT" }
+      ]
+    },
+    {
+      "id": 471,
+      "cevap": "HAYVAN",
+      "harfHavuzu": "ETRKSHAYVAN",
+      "kelimeler": [
+        { "k": "KÖPEK" },
+        { "k": "VOLKAN" },
+        { "k": "KEDİ" },
+        { "k": "ASLAN" },
+        { "k": "KUŞ", "karisik": true, "karisikHal": "Ş U K" },
+        { "k": "BALIK" },
+        { "k": "ŞEMSİYE" },
+        { "k": "AT" },
+        { "k": "MAYMUN", "karisik": true, "karisikHal": "Y M U N M A" },
+        { "k": "FİL" }
+      ]
+    },
+    {
+      "id": 472,
+      "cevap": "BANYO",
+      "harfHavuzu": "RTMSKBANYO",
+      "kelimeler": [
+        { "k": "DUŞ" },
+        { "k": "TRAKTÖR" },
+        { "k": "SABUN" },
+        { "k": "HAVLU" },
+        { "k": "ŞAMPUAN", "karisik": true, "karisikHal": "P M N Ş A U A" },
+        { "k": "KÜVET" },
+        { "k": "ÇEKİÇ" },
+        { "k": "AYNA" },
+        { "k": "MUSLUK", "karisik": true, "karisikHal": "L K U S M U" },
+        { "k": "SU" }
+      ]
+    },
+    {
+      "id": 473,
+      "cevap": "TİCARET",
+      "harfHavuzu": "SKMOYTİCARTE",
+      "kelimeler": [
+        { "k": "ALIŞVERİŞ" },
+        { "k": "ÇATAL" },
+        { "k": "FATURA" },
+        { "k": "PARA" },
+        { "k": "KAZANÇ", "karisik": true, "karisikHal": "Z N Ç K A A" },
+        { "k": "PAZAR" },
+        { "k": "LASTİK" },
+        { "k": "SATICI" },
+        { "k": "TÜCCAR", "karisik": true, "karisikHal": "C R T Ü C A" },
+        { "k": "İHRACAT" }
+      ]
+    },
+    {
+      "id": 474,
+      "cevap": "ADALET",
+      "harfHavuzu": "RSKOMADALET",
+      "kelimeler": [
+        { "k": "MAHKEME" },
+        { "k": "TORNAVİDA" },
+        { "k": "HAKİM" },
+        { "k": "KANUN" },
+        { "k": "TERAZİ", "karisik": true, "karisikHal": "R Z İ T E A" },
+        { "k": "AVUKAT" },
+        { "k": "DÜRBÜN" },
+        { "k": "CEZA" },
+        { "k": "HUKUK", "karisik": true, "karisikHal": "U K H U K" },
+        { "k": "DURUŞMA" }
+      ]
+    },
+    {
+      "id": 475,
+      "cevap": "DÖNGÜ",
+      "harfHavuzu": "ATEKSDÖNGÜ",
+      "kelimeler": [
+        { "k": "TEKRAR" },
+        { "k": "ÇATAL" },
+        { "k": "ÇEMBER" },
+        { "k": "RİTİM" },
+        { "k": "MEVSİM", "karisik": true, "karisikHal": "V S M M E İ" },
+        { "k": "AKINTI" },
+        { "k": "RADYATÖR" },
+        { "k": "DEVRİDAİM" },
+        { "k": "SONSUZ", "karisik": true, "karisikHal": "N Z S O S U" },
+        { "k": "BAŞLANGIÇ" }
+      ]
+    }
+  ]
+}
